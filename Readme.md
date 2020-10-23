@@ -9,3 +9,23 @@ obeying the following simple rules:<br>
 <li>No disk may be placed on top of a smaller disk.</li>
 <li><b>Note:</b> Transferring the top (n-1) disks from source rod to Auxiliary rod can again be thought of as a fresh problem and can be solved in the same manner.</li>
 </ul>
+
+### Example Output
+
+```
+Move disk 1 from source A to destination C
+Move disk 2 from source A to destination B
+Move disk 1 from source C to destination B
+Move disk 3 from source A to destination C
+Move disk 1 from source B to destination A
+Move disk 2 from source B to destination C
+Move disk 1 from source A to destination C
+Move disk 4 from source A to destination B
+Move disk 1 from source C to destination B
+Move disk 2 from source C to destination A
+Move disk 1 from source B to destination A
+Move disk 3 from source C to destination B
+Move disk 1 from source A to destination C
+Move disk 2 from source A to destination B
+Move disk 1 from source C to destination B
+```
